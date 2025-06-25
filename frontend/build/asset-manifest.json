@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-ai/static/css/main.4fa0b2bf.css",
+    "main.js": "/portfolio-ai/static/js/main.61598ff4.js",
+    "index.html": "/portfolio-ai/index.html",
+    "main.4fa0b2bf.css.map": "/portfolio-ai/static/css/main.4fa0b2bf.css.map",
+    "main.61598ff4.js.map": "/portfolio-ai/static/js/main.61598ff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa0b2bf.css",
+    "static/js/main.61598ff4.js"
+  ]
+}
