@@ -193,4 +193,8 @@ agent_communication:
   - agent: "main"
     message: "Implemented complete 3D portfolio with react-three-fiber. Backend has project CRUD API with sample data. Frontend has interactive 3D geometric shapes that transform to show project details. Ready for testing."
   - agent: "testing"
+    message: "Backend testing completed successfully. All API endpoints working. Sample data created. Ready for frontend testing."
+  - agent: "main"
+    message: "User will test the frontend manually. Providing access URL and testing instructions."
+  - agent: "testing"
     message: "Completed backend API testing. All backend endpoints are working correctly. Created comprehensive test script in backend_test.py that verifies all API functionality including health check, CORS, project CRUD operations, and sample data creation. All tests passed successfully. The MongoDB integration is working properly with data being stored and retrieved correctly. Project IDs are correctly generated as UUIDs and all required fields are properly validated."
